@@ -1,0 +1,3 @@
+If this command says access denied or FindFileOwnerAndPermission error (1789): The trust relationship between this workstation and the primary domain failed.
+
+It means your computer domain controller is not reachable , possible reason could be you are not on same VPN as your system domain controller.Connect to VPN and try again.

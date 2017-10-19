@@ -1,0 +1,2 @@
+C:\java\projects-exp\DatamartFreqDistPOC\hadoop\bin\winutils.exe ls C:\java\projects-exp\DatamartFreqDistPOC\tmp
+C:\java\projects-exp\DatamartFreqDistPOC\hadoop\bin\winutils.exe chmod -R 777 C:\java\projects-exp\DatamartFreqDistPOC\tmp
